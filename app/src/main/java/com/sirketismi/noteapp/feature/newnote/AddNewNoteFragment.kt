@@ -20,6 +20,7 @@ class AddNewNoteFragment: BottomSheetDialogFragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
+
     ): View? {
         binding = FragmentAddNoteBinding.inflate(inflater)
         binding.viewModel = viewModel
