@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844376087739",
+    "project_id": "noteappproject-b598c",
+    "storage_bucket": "noteappproject-b598c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844376087739:android:0a89e517be8363bb79dd9e",
+        "android_client_info": {
+          "package_name": "com.sirketismi.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0nuHtxeq18Xovp7X3WSk81R4tzH2RX8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
